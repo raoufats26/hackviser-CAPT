@@ -8,8 +8,6 @@ Welcome! This repository showcases my **Hackviser Certified Associate Penetratio
 
 **Name:** Hackviser – Certified Associate Penetration Tester (CAPT)
 **Issuing Organization:** Hackviser
-**Credential URL:** [View Certificate / Portfolio](https://github.com/raoufats26/hackviser-capt)
-
 ---
 
 ## 📁 Repository Structure
