@@ -1,6 +1,3 @@
-```markdown
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/yourprofile)
-```
 # Hackviser CAPT – Certified Associate Penetration Tester
 
 Welcome! This repository showcases my **Hackviser Certified Associate Penetration Tester (CAPT)** labs, write-ups, and resources. It demonstrates my hands-on skills in penetration testing, from network and web exploitation to reporting.
